@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dongl</title>
+  
+  <subtitle>东</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xushidong.github.io/"/>
+  <updated>2020-06-24T08:32:11.773Z</updated>
+  <id>http://xushidong.github.io/</id>
+  
+  <author>
+    <name>Dong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>index</title>
+    <link href="http://xushidong.github.io/2020/06/24/index/"/>
+    <id>http://xushidong.github.io/2020/06/24/index/</id>
+    <published>2020-06-24T06:37:11.000Z</published>
+    <updated>2020-06-24T08:32:11.773Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; num &lt;span
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
