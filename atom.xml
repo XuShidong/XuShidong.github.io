@@ -5,9 +5,9 @@
   <subtitle>东</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xushidong.github.io/"/>
+  <link href="https://blog.dong1998.cn/"/>
   <updated>2020-07-07T06:53:11.818Z</updated>
-  <id>http://xushidong.github.io/</id>
+  <id>https://blog.dong1998.cn/</id>
   
   <author>
     <name>Dong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>docker mysql</title>
-    <link href="http://xushidong.github.io/2020/07/07/docker-mysql/"/>
-    <id>http://xushidong.github.io/2020/07/07/docker-mysql/</id>
+    <link href="https://blog.dong1998.cn/2020/07/07/docker-mysql/"/>
+    <id>https://blog.dong1998.cn/2020/07/07/docker-mysql/</id>
     <published>2020-07-07T06:29:58.000Z</published>
     <updated>2020-07-07T06:53:11.818Z</updated>
     
@@ -43,10 +43,10 @@
   
   <entry>
     <title>高性能MySql</title>
-    <link href="http://xushidong.github.io/2020/07/07/gao-xing-neng-mysql/"/>
-    <id>http://xushidong.github.io/2020/07/07/gao-xing-neng-mysql/</id>
+    <link href="https://blog.dong1998.cn/2020/07/07/high-performance-mysql-2020-07-07/"/>
+    <id>https://blog.dong1998.cn/2020/07/07/high-performance-mysql-2020-07-07/</id>
     <published>2020-07-07T02:45:32.000Z</published>
-    <updated>2020-07-07T06:05:04.905Z</updated>
+    <updated>2020-07-07T07:47:21.683Z</updated>
     
     <summary type="html">
     
@@ -55,14 +55,14 @@
     </summary>
     
     
-      <category term="mysql" scheme="http://xushidong.github.io/categories/mysql/"/>
+      <category term="mysql" scheme="https://blog.dong1998.cn/categories/mysql/"/>
     
-      <category term="电子书" scheme="http://xushidong.github.io/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
+      <category term="电子书" scheme="https://blog.dong1998.cn/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
     
-      <category term="pdf" scheme="http://xushidong.github.io/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/pdf/"/>
+      <category term="pdf" scheme="https://blog.dong1998.cn/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/pdf/"/>
     
     
-      <category term="mysql" scheme="http://xushidong.github.io/tags/mysql/"/>
+      <category term="mysql" scheme="https://blog.dong1998.cn/tags/mysql/"/>
     
   </entry>
   
