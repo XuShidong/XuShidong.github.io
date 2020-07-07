@@ -705,7 +705,10 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            1docker run --name mysql-docker -p 3306:3306 -v /opt/docker/data/mysql/conf:/etc/mysql/conf.d -v /opt/docker/data/mysql/
+                            docker run --name mysql-docker \
+-p 3306:3306 
+-v /opt/docker/data/mysql/conf:/etc/mysql/conf.d 
+-v /opt/docker/data/mys
                         
                     </div>
                     <div class="publish-info">

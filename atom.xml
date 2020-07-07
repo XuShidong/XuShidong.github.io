@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xushidong.github.io/"/>
-  <updated>2020-07-07T06:38:50.185Z</updated>
+  <updated>2020-07-07T06:53:11.818Z</updated>
   <id>http://xushidong.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://xushidong.github.io/2020/07/07/docker-mysql/"/>
     <id>http://xushidong.github.io/2020/07/07/docker-mysql/</id>
     <published>2020-07-07T06:29:58.000Z</published>
-    <updated>2020-07-07T06:38:50.185Z</updated>
+    <updated>2020-07-07T06:53:11.818Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,9 @@
       
         
         
-          &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td
+          &lt;pre class=&quot;line-numbers language-linux&quot;&gt;&lt;code class=&quot;language-linux&quot;&gt;docker run --name mysql-docker \
+-p 3306:3306 
+-v
         
       
     

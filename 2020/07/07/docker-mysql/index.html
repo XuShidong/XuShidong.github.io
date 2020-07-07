@@ -395,7 +395,15 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run --name mysql-docker -p 3306:3306 -v /opt/docker/data/mysql/conf:/etc/mysql/conf.d -v /opt/docker/data/mysql/logs:/logs -v /opt/docker/data/mysql/data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=123456 --restart=always -d mysql:5.7.30</span><br></pre></td></tr></tbody></table></figure><script>
+                <pre class="line-numbers language-linux"><code class="language-linux">docker run --name mysql-docker \
+-p 3306:3306 
+-v /opt/docker/data/mysql/conf:/etc/mysql/conf.d 
+-v /opt/docker/data/mysql/logs:/logs 
+-v /opt/docker/data/mysql/data:/var/lib/mysql 
+-e MYSQL_ROOT_PASSWORD=123456 
+--restart=always 
+-d mysql:5.7.30<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -658,7 +666,10 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            1docker run --name mysql-docker -p 3306:3306 -v /opt/docker/data/mysql/conf:/etc/mysql/conf.d -v /opt/docker/data/mysql/
+                            docker run --name mysql-docker \
+-p 3306:3306 
+-v /opt/docker/data/mysql/conf:/etc/mysql/conf.d 
+-v /opt/docker/data/mys
                         
                     </div>
                     <div class="publish-info">
