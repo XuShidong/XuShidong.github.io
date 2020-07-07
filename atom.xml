@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xushidong.github.io/"/>
-  <updated>2020-06-24T08:32:11.773Z</updated>
+  <updated>2020-07-07T03:39:58.649Z</updated>
   <id>http://xushidong.github.io/</id>
   
   <author>
@@ -17,25 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>index</title>
-    <link href="http://xushidong.github.io/2020/06/24/index/"/>
-    <id>http://xushidong.github.io/2020/06/24/index/</id>
-    <published>2020-06-24T06:37:11.000Z</published>
-    <updated>2020-06-24T08:32:11.773Z</updated>
+    <title>高性能MySql</title>
+    <link href="http://xushidong.github.io/2020/07/07/gao-xing-neng-mysql/"/>
+    <id>http://xushidong.github.io/2020/07/07/gao-xing-neng-mysql/</id>
+    <published>2020-07-07T02:45:32.000Z</published>
+    <updated>2020-07-07T03:39:58.649Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;pre class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; num &lt;span
-        
-      
+      高性能MySql-PDF，mysql高级特性
     
     </summary>
     
     
+      <category term="mysql" scheme="http://xushidong.github.io/categories/mysql/"/>
+    
+      <category term="电子书" scheme="http://xushidong.github.io/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
+    
+      <category term="pdf" scheme="http://xushidong.github.io/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/pdf/"/>
+    
+    
+      <category term="mysql" scheme="http://xushidong.github.io/tags/mysql/"/>
     
   </entry>
   
