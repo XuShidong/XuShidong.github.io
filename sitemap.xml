@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test-copy/</loc>
-    
-    <lastmod>2020-07-10T08:15:19.703Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test-copy-2/</loc>
-    
-    <lastmod>2020-07-10T08:15:18.180Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.dong1998.cn/2020/07/07/pdf/mysql/high-performance-mysql-2020-07-07/</loc>
     
     <lastmod>2020-07-10T08:14:36.697Z</lastmod>
@@ -26,13 +12,6 @@
     <loc>https://blog.dong1998.cn/2020/07/10/linux/2020-07-07-pubkeys-connection/</loc>
     
     <lastmod>2020-07-10T08:14:35.149Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test/</loc>
-    
-    <lastmod>2020-07-10T07:17:31.052Z</lastmod>
     
   </url>
   
