@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.dong1998.cn/"/>
-  <updated>2020-07-10T08:10:03.324Z</updated>
+  <updated>2020-07-10T08:14:35.149Z</updated>
   <id>https://blog.dong1998.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.dong1998.cn/2020/07/10/linux/2020-07-07-pubkeys-connection/"/>
     <id>https://blog.dong1998.cn/2020/07/10/linux/2020-07-07-pubkeys-connection/</id>
     <published>2020-07-10T07:47:02.000Z</published>
-    <updated>2020-07-10T08:10:03.324Z</updated>
+    <updated>2020-07-10T08:14:35.149Z</updated>
     
     <summary type="html">
     
@@ -71,6 +71,60 @@
   </entry>
   
   <entry>
+    <title>docker test</title>
+    <link href="https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test-copy-2/"/>
+    <id>https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test-copy-2/</id>
+    <published>2020-07-10T07:17:16.000Z</published>
+    <updated>2020-07-10T08:15:18.180Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;测试3&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) {
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>docker test</title>
+    <link href="https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test-copy/"/>
+    <id>https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test-copy/</id>
+    <published>2020-07-10T07:17:16.000Z</published>
+    <updated>2020-07-10T08:15:19.703Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;测试2&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) {
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>docker mysql</title>
     <link href="https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/"/>
     <id>https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/</id>
@@ -100,7 +154,7 @@
     <link href="https://blog.dong1998.cn/2020/07/07/pdf/mysql/high-performance-mysql-2020-07-07/"/>
     <id>https://blog.dong1998.cn/2020/07/07/pdf/mysql/high-performance-mysql-2020-07-07/</id>
     <published>2020-07-07T02:45:32.000Z</published>
-    <updated>2020-07-10T07:07:41.240Z</updated>
+    <updated>2020-07-10T08:14:36.697Z</updated>
     
     <summary type="html">
     
