@@ -48,7 +48,7 @@
     <link href="https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/"/>
     <id>https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/</id>
     <published>2020-07-07T06:29:58.000Z</published>
-    <updated>2020-07-10T08:51:22.220Z</updated>
+    <updated>2020-07-10T08:52:33.213Z</updated>
     
     <summary type="html">
     
@@ -65,8 +65,12 @@
     </summary>
     
     
+      <category term="docker" scheme="https://blog.dong1998.cn/categories/docker/"/>
+    
     
       <category term="docker,mysql" scheme="https://blog.dong1998.cn/tags/docker-mysql/"/>
+    
+      <category term="docker" scheme="https://blog.dong1998.cn/tags/docker/"/>
     
   </entry>
   
