@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.dong1998.cn/"/>
-  <updated>2020-07-07T06:53:11.818Z</updated>
+  <updated>2020-07-10T08:10:03.324Z</updated>
   <id>https://blog.dong1998.cn/</id>
   
   <author>
@@ -17,11 +17,65 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>linux 免密登录</title>
+    <link href="https://blog.dong1998.cn/2020/07/10/linux/2020-07-07-pubkeys-connection/"/>
+    <id>https://blog.dong1998.cn/2020/07/10/linux/2020-07-07-pubkeys-connection/</id>
+    <published>2020-07-10T07:47:02.000Z</published>
+    <updated>2020-07-10T08:10:03.324Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Linux免密登录&quot;&gt;&lt;a href=&quot;#Linux免密登录&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="https://blog.dong1998.cn/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://blog.dong1998.cn/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker test</title>
+    <link href="https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test/"/>
+    <id>https://blog.dong1998.cn/2020/07/10/docker/run-command-explanation/2020-07-10-docker-test/</id>
+    <published>2020-07-10T07:17:16.000Z</published>
+    <updated>2020-07-10T07:17:31.052Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;测试&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>docker mysql</title>
-    <link href="https://blog.dong1998.cn/2020/07/07/docker-mysql/"/>
-    <id>https://blog.dong1998.cn/2020/07/07/docker-mysql/</id>
+    <link href="https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/"/>
+    <id>https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/</id>
     <published>2020-07-07T06:29:58.000Z</published>
-    <updated>2020-07-07T06:53:11.818Z</updated>
+    <updated>2020-07-10T07:11:12.689Z</updated>
     
     <summary type="html">
     
@@ -43,10 +97,10 @@
   
   <entry>
     <title>高性能MySql</title>
-    <link href="https://blog.dong1998.cn/2020/07/07/high-performance-mysql-2020-07-07/"/>
-    <id>https://blog.dong1998.cn/2020/07/07/high-performance-mysql-2020-07-07/</id>
+    <link href="https://blog.dong1998.cn/2020/07/07/pdf/mysql/high-performance-mysql-2020-07-07/"/>
+    <id>https://blog.dong1998.cn/2020/07/07/pdf/mysql/high-performance-mysql-2020-07-07/</id>
     <published>2020-07-07T02:45:32.000Z</published>
-    <updated>2020-07-08T02:29:28.838Z</updated>
+    <updated>2020-07-10T07:07:41.240Z</updated>
     
     <summary type="html">
     
