@@ -4,6 +4,69 @@
   
     
     <entry>
+      <title>Centos 安装nginx</title>
+      <link href="/2020/09/22/centos-an-zhuang-nginx/"/>
+      <url>/2020/09/22/centos-an-zhuang-nginx/</url>
+      
+        <content type="html"><![CDATA[<p>yum install epel-release</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ssr 配置</title>
+      <link href="/2020/09/22/ssrconfig/"/>
+      <url>/2020/09/22/ssrconfig/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hostwinds-安装SSR"><a href="#Hostwinds-安装SSR" class="headerlink" title="Hostwinds 安装SSR"></a>Hostwinds 安装SSR</h1><pre><code>wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.shchmod +x shadowsocks-all.sh./shadowsocks-all.sh 2&gt;&amp;1 | tee shadowsocks-all.log</code></pre><h1 id="Hostwinds-搭建BBR加速"><a href="#Hostwinds-搭建BBR加速" class="headerlink" title="Hostwinds 搭建BBR加速"></a>Hostwinds 搭建BBR加速</h1><pre><code>wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.shchmod +x bbr.sh./bbr.sh</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ssr </tag>
+            
+            <tag> shadowsocks </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mongodb Docker</title>
+      <link href="/2020/07/15/docker/2020-07-15-mongodb/"/>
+      <url>/2020/07/15/docker/2020-07-15-mongodb/</url>
+      
+        <content type="html"><![CDATA[<pre class="line-numbers language-linux"><code class="language-linux">docker run --name mongo-docker -p 27017:27017 -v /opt/docker/data/mongo/db:/data/db -v /opt/docker/data/mongo/mongo_configdb:/data/configdb --restart=always -d mongo:3.6.18<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> docker </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mongo </tag>
+            
+            <tag> mongodb </tag>
+            
+            <tag> docker </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>linux 免密登录</title>
       <link href="/2020/07/10/linux/2020-07-07-pubkeys-connection/"/>
       <url>/2020/07/10/linux/2020-07-07-pubkeys-connection/</url>
@@ -45,9 +108,9 @@
       
         <tags>
             
-            <tag> docker,mysql </tag>
-            
             <tag> docker </tag>
+            
+            <tag> mysql </tag>
             
         </tags>
       

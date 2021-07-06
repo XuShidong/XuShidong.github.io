@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.dong1998.cn/"/>
-  <updated>2020-07-10T08:14:35.149Z</updated>
+  <updated>2020-10-12T08:30:15.494Z</updated>
   <id>https://blog.dong1998.cn/</id>
   
   <author>
@@ -15,6 +15,91 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Centos 安装nginx</title>
+    <link href="https://blog.dong1998.cn/2020/09/22/centos-an-zhuang-nginx/"/>
+    <id>https://blog.dong1998.cn/2020/09/22/centos-an-zhuang-nginx/</id>
+    <published>2020-09-22T14:51:51.000Z</published>
+    <updated>2020-10-12T08:30:15.494Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;yum install epel-release&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ssr 配置</title>
+    <link href="https://blog.dong1998.cn/2020/09/22/ssrconfig/"/>
+    <id>https://blog.dong1998.cn/2020/09/22/ssrconfig/</id>
+    <published>2020-09-22T01:50:39.000Z</published>
+    <updated>2020-10-12T08:30:16.354Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hostwinds-安装SSR&quot;&gt;&lt;a href=&quot;#Hostwinds-安装SSR&quot; class=&quot;headerlink&quot; title=&quot;Hostwinds 安装SSR&quot;&gt;&lt;/a&gt;Hostwinds 安装SSR&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;wget
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="ssr" scheme="https://blog.dong1998.cn/tags/ssr/"/>
+    
+      <category term="shadowsocks" scheme="https://blog.dong1998.cn/tags/shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mongodb Docker</title>
+    <link href="https://blog.dong1998.cn/2020/07/15/docker/2020-07-15-mongodb/"/>
+    <id>https://blog.dong1998.cn/2020/07/15/docker/2020-07-15-mongodb/</id>
+    <published>2020-07-15T08:22:42.000Z</published>
+    <updated>2020-07-15T08:23:28.098Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre class=&quot;line-numbers language-linux&quot;&gt;&lt;code class=&quot;language-linux&quot;&gt;docker run --name mongo-docker -p 27017:27017 -v
+        
+      
+    
+    </summary>
+    
+    
+      <category term="docker" scheme="https://blog.dong1998.cn/categories/docker/"/>
+    
+    
+      <category term="mongo" scheme="https://blog.dong1998.cn/tags/mongo/"/>
+    
+      <category term="mongodb" scheme="https://blog.dong1998.cn/tags/mongodb/"/>
+    
+      <category term="docker" scheme="https://blog.dong1998.cn/tags/docker/"/>
+    
+  </entry>
   
   <entry>
     <title>linux 免密登录</title>
@@ -48,7 +133,7 @@
     <link href="https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/"/>
     <id>https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/</id>
     <published>2020-07-07T06:29:58.000Z</published>
-    <updated>2020-07-10T08:52:33.213Z</updated>
+    <updated>2020-09-22T02:16:45.560Z</updated>
     
     <summary type="html">
     
@@ -68,9 +153,9 @@
       <category term="docker" scheme="https://blog.dong1998.cn/categories/docker/"/>
     
     
-      <category term="docker,mysql" scheme="https://blog.dong1998.cn/tags/docker-mysql/"/>
-    
       <category term="docker" scheme="https://blog.dong1998.cn/tags/docker/"/>
+    
+      <category term="mysql" scheme="https://blog.dong1998.cn/tags/mysql/"/>
     
   </entry>
   

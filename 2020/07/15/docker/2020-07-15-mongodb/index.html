@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="baidu-site-verification" content="tlasEQqVcq" />
-    <meta name="keywords" content="docker mysql, Dongl,Dong">
+    <meta name="keywords" content="Mongodb Docker, Dongl,Dong">
     <meta name="description" content="描述，东">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -17,7 +17,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>docker mysql | Dongl</title>
+    <title>Mongodb Docker | Dongl</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -231,7 +231,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">docker mysql</h1>
+                    <h1 class="description center-align post-title">Mongodb Docker</h1>
                 </div>
             </div>
         </div>
@@ -348,12 +348,16 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/docker/">
-                                <span class="chip bg-color">docker</span>
+                            <a href="/tags/mongo/">
+                                <span class="chip bg-color">mongo</span>
                             </a>
                         
-                            <a href="/tags/mysql/">
-                                <span class="chip bg-color">mysql</span>
+                            <a href="/tags/mongodb/">
+                                <span class="chip bg-color">mongodb</span>
+                            </a>
+                        
+                            <a href="/tags/docker/">
+                                <span class="chip bg-color">docker</span>
                             </a>
                         
                     </div>
@@ -377,21 +381,21 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-07-07
+                    2020-07-15
                 </div>
                 
 
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2020-09-22
+                    2020-07-15
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    96
+                    83
                 </div>
                 
 
@@ -413,14 +417,7 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <pre class="line-numbers language-linux"><code class="language-linux">docker run --name mysql-docker \
--p 3306:3306 
--v /opt/docker/data/mysql/conf:/etc/mysql/conf.d 
--v /opt/docker/data/mysql/logs:/logs 
--v /opt/docker/data/mysql/data:/var/lib/mysql 
--e MYSQL_ROOT_PASSWORD=123456 
---restart=always 
--d mysql:5.7.30<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+                <pre class="line-numbers language-linux"><code class="language-linux">docker run --name mongo-docker -p 27017:27017 -v /opt/docker/data/mongo/db:/data/db -v /opt/docker/data/mongo/mongo_configdb:/data/configdb --restart=always -d mongo:3.6.18<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -464,7 +461,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/">https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/</a>
+                    <a href="https://blog.dong1998.cn/2020/07/15/docker/2020-07-15-mongodb/">https://blog.dong1998.cn/2020/07/15/docker/2020-07-15-mongodb/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -502,12 +499,16 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/docker/">
-                                    <span class="chip bg-color">docker</span>
+                                <a href="/tags/mongo/">
+                                    <span class="chip bg-color">mongo</span>
                                 </a>
                             
-                                <a href="/tags/mysql/">
-                                    <span class="chip bg-color">mysql</span>
+                                <a href="/tags/mongodb/">
+                                    <span class="chip bg-color">mongodb</span>
+                                </a>
+                            
+                                <a href="/tags/docker/">
+                                    <span class="chip bg-color">docker</span>
                                 </a>
                             
                         </div>
@@ -678,7 +679,7 @@
         repo: 'xushidong.github.io',
         owner: 'XuShidong',
         admin: ["XuShidong"],
-        id: '2020-07-07T14-29-58',
+        id: '2020-07-15T16-22-42',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -706,6 +707,55 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
+                <a href="/2020/09/22/ssrconfig/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="ssr 配置">
+                        
+                        <span class="card-title">ssr 配置</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            Hostwinds 安装SSRwget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_
+                        
+                    </div>
+                    <div class="publish-info">
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2020-09-22
+                        </span>
+                        <span class="publish-author">
+                            
+                            <i class="fas fa-user fa-fw"></i>
+                            Dong
+                            
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/ssr/">
+                        <span class="chip bg-color">ssr</span>
+                    </a>
+                    
+                    <a href="/tags/shadowsocks/">
+                        <span class="chip bg-color">shadowsocks</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
+            </div>
+            <div class="card">
                 <a href="/2020/07/10/linux/2020-07-07-pubkeys-connection/">
                     <div class="card-image">
                         
@@ -722,9 +772,9 @@
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2020-07-10
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-07-10
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
@@ -742,62 +792,6 @@
                     
                     <a href="/tags/linux/">
                         <span class="chip bg-color">linux</span>
-                    </a>
-                    
-                </div>
-                
-            </div>
-        </div>
-        
-        
-        <div class="article col s12 m6" data-aos="fade-up">
-            <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
-            </div>
-            <div class="card">
-                <a href="/2020/07/07/pdf/mysql/high-performance-mysql-2020-07-07/">
-                    <div class="card-image">
-                        
-                        <img src="/statics/medias/O1CN011TI0N2jWB1IHH4l_!!2598292358234.jpeg" class="responsive-img" alt="高性能MySql">
-                        
-                        <span class="card-title">高性能MySql</span>
-                    </div>
-                </a>
-                <div class="card-content article-content">
-                    <div class="summary block-with-text">
-                        
-                            本书是MySQL 领域的经典之作，拥有广泛的影响力。第3 版更新了大量的内容，不但涵盖了最新MySQL5.5版本的新特性，也讲述了关于固态盘、高可扩展性设计和云计算环境下的数据库相关的新内容，原有的基准测试和性能优化部分也做了大量的扩展和补充。全书共分为16章和6 个附录，内容涵盖MySQL架构和历史，基准测试和性能剖析，数据库软硬件性能优化，复制、备份和恢复，高可用与高可扩展性，以及云端的MySQL和MySQL相关工具等方面的内容。每一章都是相对独立的主题，读者可以有选择性地单独阅读。
-                        
-                    </div>
-                    <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-07-07
-                            </span>
-                        <span class="publish-author">
-                            
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/mysql/" class="post-category">
-                                    mysql
-                                </a>
-                            
-                            <a href="/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/" class="post-category">
-                                    电子书
-                                </a>
-                            
-                            <a href="/categories/mysql/%E7%94%B5%E5%AD%90%E4%B9%A6/pdf/" class="post-category">
-                                    pdf
-                                </a>
-                            
-                            
-                        </span>
-                    </div>
-                </div>
-                
-                <div class="card-action article-tags">
-                    
-                    <a href="/tags/mysql/">
-                        <span class="chip bg-color">mysql</span>
                     </a>
                     
                 </div>

@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.dong1998.cn/2020/09/22/ssrconfig/</loc>
+    
+    <lastmod>2020-10-12T08:30:16.354Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.dong1998.cn/2020/09/22/centos-an-zhuang-nginx/</loc>
+    
+    <lastmod>2020-10-12T08:30:15.494Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.dong1998.cn/2020/07/07/docker/run-command-explanation/docker-mysql/</loc>
     
-    <lastmod>2020-07-10T08:52:33.213Z</lastmod>
+    <lastmod>2020-09-22T02:16:45.560Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.dong1998.cn/2020/07/15/docker/2020-07-15-mongodb/</loc>
+    
+    <lastmod>2020-07-15T08:23:28.098Z</lastmod>
     
   </url>
   
@@ -30,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://blog.dong1998.cn/categories/index.html</loc>
+    <loc>https://blog.dong1998.cn/contact/index.html</loc>
     
     <lastmod>2020-06-24T07:25:35.324Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.dong1998.cn/contact/index.html</loc>
+    <loc>https://blog.dong1998.cn/categories/index.html</loc>
     
     <lastmod>2020-06-24T07:25:35.324Z</lastmod>
     
